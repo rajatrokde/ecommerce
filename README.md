@@ -1,4 +1,4 @@
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+ <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p align="center">
 <img width="60" height="68" alt="EverShop Logo" src="https://evershop.io/img/logo.png"/>
 </p>
@@ -39,7 +39,7 @@ You can get started with EverShop in minutes by running the following command:
 npx create-evershop-app my-app
 ```
 
-## Documentation
+## Documentation .
 
 - [Installation guide](https://evershop.io/docs/development/getting-started/installation-guide).
 
